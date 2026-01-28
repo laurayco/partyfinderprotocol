@@ -14,7 +14,7 @@ You will probably be blacklisted by people depending on how annoying your behavi
 ## Social Roles and Expectations
 ### Party Finder Leader
 You should know in advance how many pre-fills you have (ie: people you invite to the party before starting PF). If you know someone else will be later joining the party, make sure to mention that in the description.
-Your description should include any strats used and the prog-point of the least progressed member of your party including pre-fills.
+Your description should include any strats used and the prog-point of the least progressed member of your party including pre-fills. Include the abbreviation "PFP" to indicate intended compliance with this document.
 
 If you want a specific composition, you need to set that up *every time you start searching for fills*.
 
